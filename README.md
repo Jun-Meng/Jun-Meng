@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jun Meng
-- 👀 I’m interested in air quality, renewable energy, climate change and human health. 
+- 👋 Hi, I’m Jun. 
+- I’m working on air quality modeling. I'm also interested in renewable energy, climate change and human health. 
 - 📫 Email: jun.meng@wsu.edu
 
 <!---
